@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on developing scalable web applications and improving system performance for clients.  <br>👯 I’m looking to collaborate on challenging projects and contribute to open source development, particularly in Java and Spring Boot.  <br>🤝 I’m looking for help with new opportunities in backend development, system design, and microservices architecture.  <br>🌱 I’m currently learning Next.js to enhance my frontend development skills.  <br>⚡ In my free time, I enjoy watching latest tech videos on YouTube and playing video games.
+## Aman Anand — Data Engineer
+
+- 5 years building data platforms on Azure (Databricks, ADF, Delta Lake, Synapse)
+- Currently exploring: Apache Airflow, dbt
+- Certifications: Databricks Spark 3.0 | Azure Data Engineer | SnowPro Core
 
 
 ## 🌐 Socials:
