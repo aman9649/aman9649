@@ -24,4 +24,4 @@ Primary engineer on a $2.4B transport analytics platform —
 - SnowPro Core Certification
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-anand-aw9649)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman9649)
